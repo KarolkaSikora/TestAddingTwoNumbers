@@ -1,0 +1,7 @@
+osx_image: xcode6.4
+
+language: objective-c
+
+xcode_project: AddingTwoNumbers.xcodeproj
+xcode_scheme: AddingTwoNumbersTests
+xcode_sdk: iphonesimulator8.4
