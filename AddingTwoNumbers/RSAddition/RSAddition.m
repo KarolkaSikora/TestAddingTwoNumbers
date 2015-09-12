@@ -19,7 +19,7 @@
 }
 
 - (NSString*)getName {
-    return @"TestUT";
+    return @"TestUTPass";
 }
 
 @end
